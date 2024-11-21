@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Alice Green",
+    "age": 42,
+    "address": {
+      "street": "789 Pine St",
+      "city": "Mapleton",
+      "zipcode": "54321"
+    }
+  },
+  {
+    "name": "Bob Johnson",
+    "age": 34,
+    "address": {
+      "street": "101 Birch Rd",
+      "city": "Lakeside",
+      "zipcode": "98765"
+    }
+  }
+]
